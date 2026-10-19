@@ -18,6 +18,7 @@
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
 * [PicSVG](http://picsvg.com/fr/)
 * [Pixel Art to SVG](https://pixel-to-svg.com/) - Pixel-art-aware PNG to SVG converter that keeps the grid: one rectangle per cell, merged with greedy meshing instead of contour tracing. Runs fully in the browser, no upload.
+* [PNG to SVG by AIIPWorld](https://aiipworld.com/tools/png-to-svg/) - Traces a PNG, JPG, WebP, AVIF, GIF, BMP or TIFF picture into an SVG of filled vector paths with the open-source VTracer. Best for logos, icons and flat illustrations; free without an account, up to 5 MB per image.
 * [Scour](http://www.codedread.com/scour/)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [smil2css](https://github.com/webframes/smil2css)
